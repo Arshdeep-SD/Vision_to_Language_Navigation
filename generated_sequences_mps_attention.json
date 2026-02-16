@@ -1,0 +1,282 @@
+[
+    {
+        "image": "grids/grid_0.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_1.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_2.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_3.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_4.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_5.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_6.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_7.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_8.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_9.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_10.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_11.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_12.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_13.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_14.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_15.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_16.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_17.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_18.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_19.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_20.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_21.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_22.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_23.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_24.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_25.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_26.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_27.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_28.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_29.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_30.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_31.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_32.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_33.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_34.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_35.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_36.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_37.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_38.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_39.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_40.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_41.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_42.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_43.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_44.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_45.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_46.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_47.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_48.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_49.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_50.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_51.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_52.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_53.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_54.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_55.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_56.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_57.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_58.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_59.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_60.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_61.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_62.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_63.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_64.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_65.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_66.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_67.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_68.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    },
+    {
+        "image": "grids/grid_69.png",
+        "generated_sequence": " R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R U R"
+    }
+]
